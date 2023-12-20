@@ -31,11 +31,13 @@ A: 我認為以下幾點是需要使用框架開發的原因：
 ## Q3: 實作：請利用「素材1 icon或emoji」及「素材2 yt.json」，做出以下HTML版面 (將於實際面試時Demo)。
 終端機輸入：
 ```
+cd qsearch-frontend-test
 npm i
 npm run dev
 ```
 或是：
 ```
+cd qsearch-frontend-test
 bun i
 bun run dev
 ```
